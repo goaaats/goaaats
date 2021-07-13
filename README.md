@@ -8,6 +8,6 @@
 <b>Hi, I'm goat.<br>You may know me.</b>
 </p>
 
-If there is anything urgent you need to contact me for, you can use Discord(@goat#0909) or send an email to goatsdev at protonmail.
+If there is anything urgent you need to contact me for, you can use Discord(@goat#7231) or send an email to goatsdev at protonmail.
 <br>
 My public key: https://keybase.io/goatz, [proof](https://gist.github.com/goaaats/cec89a5b722acdaacf42ce60a9f53923)
