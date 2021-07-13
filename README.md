@@ -4,6 +4,7 @@
 
 <p align="center">
 <b>Hi, I'm goat.</b>
+  I like C#, RE and video games.
 </p>
 
 ### Things I make right now!
@@ -94,7 +95,7 @@
 <br>
 
 <details>
-  <summary><strong>Other interesting stuff<strong></summary>
+  <summary><strong>Other interesting stuff</strong></summary>
   <br>
   <table>
     <tbody>
@@ -147,7 +148,7 @@
           Android/iOS OTP authenticator app for XIVLauncher built in Flutter
         </td>
         <td>
-          <img alt="C#" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" width="22">
+          <img alt="Dart/Flutter" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" width="22">
         </td>
       </tr>
       <tr>
@@ -166,6 +167,81 @@
     </tbody>
   </table>
 </details>
+
+<details>
+  <summary><strong>FFXIV Plugins</strong></summary>
+  <br>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <em>
+            <strong><a href="https://github.com/goaaats/Dalamud.LoadingImage/">Dalamud.LoadingImage</a></strong>
+          </em>
+        </td>
+        <td>
+          Replaces black loading screens with beautiful FFXIV zone art
+        </td>
+        <td>
+          <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <em>
+            <strong><a href="https://github.com/goaaats/ULDPartExtractor/">Dalamud.DiscordBridge</a></strong>
+          </em>
+        </td>
+        <td>
+          Privately relays chat messages, duty pops, retainer sales, etc. into a Discord server of your choice
+        </td>
+        <td>
+          <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <em>
+            <strong><a href="https://github.com/goaaats/Dalamud.CharacterSync/">Dalamud.CharacterSync</a></strong>
+          </em>
+        </td>
+        <td>
+          Safely synchronizes your main's character data to your alts 
+        </td>
+        <td>
+          <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <em>
+            <strong><a href="https://github.com/goaaats/Dalamud.RichPresence/">Dalamud.RichPresence</a></strong>
+          </em>
+        </td>
+        <td>
+          Shows a fancy Discord Rich Presence status for FFXIV, selectively containing name, world, job and zone
+        </td>
+        <td>
+          <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+        </td>
+       </tr>
+       <tr>
+        <td>
+          <em>
+            <strong><a href="https://github.com/goaaats/dalamud-owo/">dalamud-owo</a></strong>
+          </em>
+        </td>
+        <td>
+          Dalamud OwO does what you think it does to all chat messages - no need to thank me
+        </td>
+        <td>
+          <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 
 <br>
 <br>
