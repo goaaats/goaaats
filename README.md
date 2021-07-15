@@ -16,20 +16,6 @@
     <tr>
       <td>
         <em>
-          <strong><a href="https://github.com/goatcorp/FFXIVQuickLauncher/">XIVLauncher</a></strong>
-        </em>
-      </td>
-      <td>
-        Feature-rich custom launcher for FFXIV
-      </td>
-      <td>
-        <a href="https://github.com/goatcorp/FFXIVQuickLauncher/"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/goatcorp/FFXIVQuickLauncher"></a>&emsp;
-        <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <em>
           <strong><a href="https://github.com/goatcorp/Dalamud/">Dalamud</a></strong>
         </em>
       </td>
@@ -38,6 +24,20 @@
       </td>
       <td>
         <a href="https://github.com/goatcorp/Dalamud/"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/goatcorp/Dalamud"></a>&emsp;
+        <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em>
+          <strong><a href="https://github.com/goatcorp/FFXIVQuickLauncher/">XIVLauncher</a></strong>
+        </em>
+      </td>
+      <td>
+        Feature-rich custom launcher for FFXIV
+      </td>
+      <td>
+        <a href="https://github.com/goatcorp/FFXIVQuickLauncher/"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/goatcorp/FFXIVQuickLauncher"></a>&emsp;
         <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
       </td>
     </tr>
