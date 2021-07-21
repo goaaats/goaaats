@@ -7,7 +7,7 @@
   I like C#, RE and video games.
 </p>
 
-### Things I make right now!
+### Things I am making right now!
 
 #### Tools and Toolkits
 
