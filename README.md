@@ -79,6 +79,20 @@
     <tr>
       <td>
         <em>
+          <strong><a href="https://github.com/goatcorp/MinSharp/">MinSharp</a></strong>
+        </em>
+      </td>
+      <td>
+          Minimal .NET wrapper for TsudaKageyu's MinHook
+      </td>
+      <td>
+        <a href="https://www.nuget.org/packages/MinSharp/"><img alt="Nuget" src="https://img.shields.io/nuget/v/MinSharp"></a>&emsp;
+        <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em>
           <strong><a href="https://github.com/xivapi/NetStone/">NetStone</strong>
         </em>
       </td>
