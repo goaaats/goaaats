@@ -100,6 +100,7 @@
         All-in-one web scraping library for the FFXIV Lodestone
       </td>
       <td>
+        <a href="https://www.nuget.org/packages/NetStone/"><img alt="Nuget" src="https://img.shields.io/nuget/v/NetStone"></a>&emsp;
         <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
       </td>
     </tr>
