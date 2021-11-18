@@ -264,7 +264,3 @@
 If there is anything urgent you need to contact me for, you can use Discord(@goat#7231) or send an email to goatsdev at protonmail.
 <br>
 My public key: https://keybase.io/goatz, [proof](https://gist.github.com/goaaats/cec89a5b722acdaacf42ce60a9f53923)
-
-<p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/HkAXc5sup2GVPVia1e-TnWKEmN4=/0x79:1200x925/920x613/filters:focal(540x268:732x460):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/61759449/cool_goat_2.0.jpg" width="300"/>
-</p>
