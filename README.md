@@ -91,6 +91,20 @@
     <tr>
       <td>
         <em>
+          <strong><a href="https://github.com/goaaats/KeySharp/">KeySharp</strong>
+        </em>
+      </td>
+      <td>
+        Cross-platform OS keychain access for C#/.NET
+      </td>
+      <td>
+        <a href="https://www.nuget.org/packages/KeySharp/"><img alt="Nuget" src="https://img.shields.io/nuget/v/KeySharp"></a>&emsp;
+        <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em>
           <strong><a href="https://github.com/xivapi/NetStone/">NetStone</strong>
         </em>
       </td>
