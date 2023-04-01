@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goaaats&count_private=true&show_icons=true&line_height=24" alt="goaaat's github stats"/>
-</p>
+</p>-->
 
 <p align="center">
 <b>Hi, I'm goat.</b>
