@@ -39,20 +39,6 @@
         <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
       </td>
     </tr>
-    <tr>
-      <td>
-        <em>
-          <strong><a href="https://github.com/SapphireServer/ffxivmon/">ffxivmon</a></strong>
-        </em>
-      </td>
-      <td>
-        Network analysis tool for FFXIV
-      </td>
-      <td>
-        <a href="https://github.com/SapphireServer/ffxivmon/"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SapphireServer/ffxivmon"></a>&emsp;
-        <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
-      </td>
-    </tr>
   </tbody>
 </table>
 
