@@ -40,20 +40,6 @@
     <tr>
       <td>
         <em>
-          <strong><a href="https://github.com/goaaats/CheapLoc/">CheapLoc</a></strong>
-        </em>
-      </td>
-      <td>
-          Drop-in .NET localization library that reads source strings via reflection
-      </td>
-      <td>
-        <a href="https://www.nuget.org/packages/CheapLoc/"><img alt="Nuget" src="https://img.shields.io/nuget/v/CheapLoc"></a>&emsp;
-        <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <em>
           <strong><a href="https://github.com/goatcorp/MinSharp/">MinSharp</a></strong>
         </em>
       </td>
