@@ -1,13 +1,4 @@
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goaaats&count_private=true&show_icons=true&line_height=24" alt="goaaat's github stats"/>
-</p>-->
-
-<p align="center">
-<b>Hi, I'm goat.</b>
-  I like C#, RE and video games.
-</p>
-
-#### Tools and Toolkits
+#### Things I made
 
 <table>
   <tbody>
@@ -189,6 +180,19 @@
       <tr>
         <td>
           <em>
+            <strong><a href="https://github.com/goaaats/Dalamud.FindAnythign/">Wotsit</a></strong>
+          </em>
+        </td>
+        <td>
+          Spotlight-like search bar for (pretty much) everything in FFXIV
+        </td>
+        <td>
+          <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <em>
             <strong><a href="https://github.com/goaaats/Dalamud.LoadingImage/">Dalamud.LoadingImage</a></strong>
           </em>
         </td>
@@ -238,19 +242,6 @@
           <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
         </td>
        </tr>
-       <tr>
-        <td>
-          <em>
-            <strong><a href="https://github.com/goaaats/dalamud-owo/">dalamud-owo</a></strong>
-          </em>
-        </td>
-        <td>
-          Dalamud OwO does what you think it does to all chat messages - no need to thank me
-        </td>
-        <td>
-          <img alt="C#" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_32x32.png" width="22">
-        </td>
-      </tr>
     </tbody>
   </table>
 </details>
