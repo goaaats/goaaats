@@ -192,7 +192,7 @@
       <tr>
         <td>
           <em>
-            <strong><a href="https://github.com/goaaats/ULDPartExtractor/">Dalamud.DiscordBridge</a></strong>
+            <strong><a href="https://github.com/goaaats/Dalamud.DiscordBridge/">Dalamud.DiscordBridge</a></strong>
           </em>
         </td>
         <td>
